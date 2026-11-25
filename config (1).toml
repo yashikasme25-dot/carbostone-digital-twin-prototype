@@ -1,0 +1,8 @@
+# Copy this file to a folder named ".streamlit" next to carbonstone_dashboard_v3.py
+[theme]
+base = "light"
+primaryColor = "#2F6FB3"
+backgroundColor = "#EDF1F5"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#14202B"
+font = "sans serif"
